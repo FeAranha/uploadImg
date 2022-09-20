@@ -12,3 +12,5 @@ Desafio Rocketseat upload e listagem de imagens utilizando React Query, React Ho
 ![alt galeria de images](https://i.ibb.co/5WdpDYw/Untitled.png)
 
 ![alt adicionando imagens](https://i.ibb.co/8zV08YM/Untitled-1.png)
+
+ps: as imagens deste README foi postada no ImgBB por meio deste projeto.
